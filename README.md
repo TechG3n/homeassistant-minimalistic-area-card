@@ -16,7 +16,7 @@ Better Minimalistic Area Card is available in [HACS][hacs] (Home Assistant Commu
 
 Use this link to directly go to the repository in HACS
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=LesTR&repository=homeassistant-minimalistic-area-card)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=TechG3n&repository=homeassistant-minimalistic-area-card)
 
 _or_
 
